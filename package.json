@@ -1,6 +1,6 @@
 {
   "name": "archive-tar-creator",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Creates tar archive streams from files and directories using USTAR headers",
   "type": "module",
   "main": "src/index.js",
